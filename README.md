@@ -14,4 +14,4 @@ This is a sample Deployment for showing how to use Git and Github Together.
 Please fork this repo and then issue Pull Reuests for review.
 
 ### Copyright
-2018 Git.Training
+2018 Git.Training. All right reserved

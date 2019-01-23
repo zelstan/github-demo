@@ -12,3 +12,6 @@ This is a sample Deployment for showing how to use Git and Github Together.
 
 ## How to contribute
 This is a sample Contribution for showing how to use Git and Github Together.
+
+### Copyright
+2018 Git.Training

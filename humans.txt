@@ -3,7 +3,7 @@
 
 # TEAM
   Jason Taylor  jason@git.training @awesomjt
-  
+  And Stan Zelenko myemail@vnsny.net
 # THANKS
 
   All my students!

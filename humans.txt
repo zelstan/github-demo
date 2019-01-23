@@ -1,0 +1,14 @@
+# humanstxt.oft/
+# The humans responsible &technology colophon
+
+# TEAM
+  Jason Taylor  jason@git.training @awesomjt
+  
+# THANKS
+
+  <name>
+  
+# TECHNOLOGY COLOPHON
+  
+    HTML5, CSS3
+	jQuery, Mdernizr

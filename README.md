@@ -13,5 +13,7 @@ Just deploy and that is it
 ## How to contribute
 Please fork this repo and then issue Pull Reuests for review.
 
-### Copyright
+## Copyright
 2018 Git.Training. All right reserved
+
+## Post Scriptum

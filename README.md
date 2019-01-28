@@ -8,7 +8,7 @@ This is a sample Introduction for showing how to use Git and Github Together.
 This is a sample Purpose for showing how to use Git and Github Together.
 
 ## Deployment
-This is a sample Deployment for showing how to use Git and Github Together.
+Just deploy and that is it
 
 ## How to contribute
 Please fork this repo and then issue Pull Reuests for review.
